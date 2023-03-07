@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    },
+    {
+      "id": "NewPage",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "clonedFromApplicationId": "623eecd66c86dd5be6fdd191",
+  "color": "#E3DEFF",
+  "icon": "flight",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 1,
+  "isManualUpdate": false,
+  "deleted": false
+}
